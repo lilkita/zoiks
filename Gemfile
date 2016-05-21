@@ -8,6 +8,7 @@ gem "sass-rails"
 gem "simple_form"
 gem "devise", ">= 3.2.4"
 gem "carrierwave"
+gem "figaro"
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
